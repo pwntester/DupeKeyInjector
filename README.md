@@ -11,7 +11,7 @@ For more details about this technique, please refer to the following materials:
 - [Sharepoint Privilege Escalation Demo](https://youtu.be/JnKpecoyyDA)
 
 ## Screenshot
-![screenshot](/screenshot.png)
+<img src="/resources/screenshot.png" width="600" height="625" />
 
 ## Usage
 Intercept a SAML request and use the `Dupe Key Injector` tab to modify the assertion and then re-sign it using one of the following techniques:
