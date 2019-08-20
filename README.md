@@ -4,11 +4,11 @@ Dupe Key Injetctor is a Burp Suite extension implementing "Dupe Key Confusion", 
 
 ## Resources
 For more details about this technique, please refer to the following materials:
-- [White paper](https://github.com/pwntester/DupeKeyInjector/resources/whitepaper.pdf)
-- [Slides](https://github.com/pwntester/DupeKeyInjector/resources/slides.pdf)
-- [Exchange RCE Demo](https://github.com/pwntester/DupeKeyInjector/resources/RCE.mp4)
-- [Exchange Account Takeover Demo](https://github.com/pwntester/DupeKeyInjector/resources/Exchange.mp4)
-- [Sharepoint Privilege Escalation Demo](https://github.com/pwntester/DupeKeyInjector/resources/SharePoint.mp4)
+- [White paper](https://github.com/pwntester/DupeKeyInjector/blob/master/resources/whitepaper.pdf)
+- [Slides](https://github.com/pwntester/DupeKeyInjector/blob/master/resources/slides.pdf)
+- [Exchange RCE Demo](https://github.com/pwntester/DupeKeyInjector/blob/master/resources/RCE.mp4)
+- [Exchange Account Takeover Demo](https://github.com/pwntester/DupeKeyInjector/blob/master/resources/Exchange.mp4)
+- [Sharepoint Privilege Escalation Demo](https://github.com/pwntester/DupeKeyInjector/blob/master/resources/SharePoint.mp4)
 
 ## Screenshot
 ![screenshot](/screenshot.png)
