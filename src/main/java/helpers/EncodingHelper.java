@@ -74,7 +74,7 @@ public class EncodingHelper {
 
         // TODO: message should be valid XML, so apply decoders and try to parse it until parsing is valid
 
-        if (message.matches("%[0-9A-Fa-f]{2}") && urldecode(message) != message) {
+        if (message.matches(".*%[0-9A-Fa-f]{2}.*") && urldecode(message) != message) {
             encodings.add("url");
             message = urldecode(message);
         }
